@@ -10,7 +10,7 @@ nav_order: 6
 <h2>  Lattice Realization of Topological Defects in 2D CFT </h2>
 
 In this project, we work on defining operators on spin chains, such as Transverse Field Ising and Three-State Potts, and more generally on Anyonic chain or Restricted Solid-on-solid (RSOS) Models, which realize topological line operators in the 2D CFT, as we take the continuum limit. 
-My collaborators in this project include Ananda Roy, Fei Yan, Hubert Saleur, Linnea Grans-Samuelsson and Thiago Silva Tavares. 
+My collaborators in this project include Ananda Roy, Fei Yan, Hubert Saleur, Linnea Grans-Samuelsson and Thiago Silva Tavares. You can find the publication 
 
 <h2>  Vertex Operator Algebras and Modular Tensor Categories for Narain CFTs </h2>
 
