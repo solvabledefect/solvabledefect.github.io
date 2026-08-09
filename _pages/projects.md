@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /projects/
-title: projects
+title: Projects
 description: Here is a brief description of the projects that I have worked on.
 nav: true
 nav_order: 6
