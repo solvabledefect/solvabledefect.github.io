@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://solvabledefect.github.io/sitemap.xml
