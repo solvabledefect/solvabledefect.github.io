@@ -2,96 +2,151 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Madhav Sinha
+
+- title: Employment
+  type: time_table
+  contents:
+    - title: Postdoctoral Scholar
+      institution: Center for Quantum Phenomena, New York University
+      year: July '26 - Present
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD in Physics
+      institution: Rutgers University, New Brunswick
+      year: August '20 - May '26
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - "GPA: 4.0/4.0"
+        - "PhD Thesis: Topological defects in conformal field theories and their lattice realizations"
+        - "PhD Advisor: Prof. Ananda Roy"
+    - title: BS-MS in Physics
+      institution: Indian Institute of Science Education and Research, Pune
+      year: August '15 - May '20
       description:
-        - Description 1.
-        - Description 2.
+        - "GPA: 9.1/10 - Distinction"
+        - "Master's Thesis: Solvable Models and Mathematical Formulation of CFT"
+        - "Master's Thesis Advisors: Profs. Vladimir Bazhanov and Murray Batchelor (Australian National University)"
 
-- title: Experience
-  type: time_table
-  contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
+- title: Publications
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Full list of publications can be found on the <a href="/publications/">Publications</a> page or on <a href="https://inspirehep.net/authors/2718620">Inspire</a>.
+
+- title: Seminar Talks
+  type: time_table
+  contents:
+    - title: Center for Quantum Phenomena Seminar
+      institution: New York University
+      year: October '25
+    - title: Condensed Matter Theory Seminar
+      institution: Leibniz University Hannover
+      year: October '24
+    - title: CMP/QFT Seminar
+      institution: Institute for Advanced Study
+      year: April '24
+    - title: Integrable Systems Seminar
+      institution: University of Leeds
+      year: November '23
+
+- title: Conferences and Workshops
+  type: time_table
+  contents:
+    - title: Student Workshop on Integrability - Ljubljana
+      year: Talk - June '26
+    - title: "Les Houches Summer School 2025: Exact Solvability and Quantum Information"
+      year: Short Talk - August '25
+    - title: ICTP - SAIFR - Program on Anomalies, Topology and Quantum Information in Field Theory and Condensed Matter Physics
+      year: Poster - June '25
+    - title: KITP - Generalized Symmetries in Quantum Field Theory
+      year: April '25
+    - title: Autumn school on Quantum Integrable Models at DESY, Hamburg
+      year: October '24
+    - title: Prospects in Theoretical Physics (PiTP) at Institute for Advanced Study
+      year: Poster - July '24
+    - title: Rutgers Center for Materials Theory Fall 2023 Symposium
+      year: Poster - September '23
+    - title: Young Researchers Integrability School and Workshop (YRISW), Durham
+      year: Poster - July '23
+    - title: Workshop on Conformal Bootstrap at GGI - Florence
+      year: October '22
+    - title: New Jersey Quantum Matter and Information (NJQMI) Forum at Princeton
+      year: April '22
+    - title: Boundaries and Defects in CFT and Holography held at Princeton
+      year: March '22
+    - title: Baxter 2020 at Australian National University
+      year: February '20
+    - title: Workshop on Volume Conjecture and related topics in Knot Theory at IISER Pune
+      year: December '18
+
+- title: Awards and Fellowships
+  type: time_table
+  contents:
+    - title: Torrey Fellowship, Rutgers Physics and Astronomy Department
+      year: September '24 - January '25
+    - title: Rutgers School of Arts and Sciences Excellence Fellowship
+      year: September '24 - May '25
+    - title: Australian National University - Future Research Talent Award
+      year: May '19 - March '20
+    - title: University of Göttingen - Erasmus
+      year: May '18 - Aug '18
+    - title: Indian Academy of Sciences' Summer Research Fellowship Programme
+      year: May - July '17
+    - title: Kishore Vaigyanik Protsahan Yojana (KVPY) scholarship supporting undergraduates in science in India
+      year: August '15 - July '20
+    - title: National Talent Science Examination, scholarship by the Indian government for high school students
+      year: April '13 - May '15
+
+- title: Relevant Coursework
+  type: nested_list
+  contents:
+    - title: Rutgers, New Brunswick
+      items:
+        - QFT 1 & 2
+        - Differential Topology
+        - Vertex Operator Algebra
+        - Many Body Physics
+        - Quantum Computing
+        - Frobenius Algebra and Topological Field Theory
+        - Applied Group Theory
+        - General Relativity
+    - title: IISER Pune
+      items:
+        - Introductory QFT
+        - Algebraic Topology
+        - Differential Geometry
+        - Differential Equations
+        - Atomic and Molecular Physics
+        - Nuclear Physics
+        - Physics Labs
+
+- title: Teaching Experience
+  type: time_table
+  contents:
+    - title: Teaching Assistant for General Physics Lab
+      institution: Rutgers University
+      year: Spring '24
+    - title: Grader for Quantum Computation
+      institution: Rutgers University
+      year: Fall '23
+    - title: Recitations and grader for Honors Physics I - Classical Mechanics
+      institution: Rutgers University
+      year: Fall '22
+    - title: Teaching Assistant for Extended Analytical Physics
+      institution: Rutgers University
+      year: Spring '22
+    - title: Teaching Assistant for Analytical Physics
+      institution: Rutgers University
+      year: Fall '21
+    - title: Teaching Assistant for General Physics Lab (Online)
+      institution: Rutgers University
+      year: Spring '21
+
+- title: Technologies
+  type: map
+  contents:
+    - name: Programming Languages
+      value: Python, Mathematica, Fortran
+    - name: Markup Languages
+      value: LaTeX
