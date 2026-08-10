@@ -21,6 +21,6 @@ I am a postdoctoral scholar at New York University, working in the group of Prof
 
 <!--click [here](assets/pdf/CV_Madhav_Sinha.pdf) for my CV.-->
 
-I work on generalized symmetries and topological defectss in the context of condensed matter systems in and out of equilibrium. My publications can be found on [Inspire](https://inspirehep.net/authors/2718620).
+I work on generalized symmetries and topological defects in the context of condensed matter systems in and out of equilibrium. My publications can be found on [Inspire](https://inspirehep.net/authors/2718620).
 
  
