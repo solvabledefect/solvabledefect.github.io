@@ -16,8 +16,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a postdoctoral scholar at New York University, working in the group of Prof. [Aditi Mitra](https://as.nyu.edu/faculty/aditi-mitra.html). I finished my PhD in physics at Rutgers University, New Brunswick, where my advisor was Prof. [Ananda Roy](https://sites.rutgers.edu/ananda-roy/). Before this I was at Indian Institute of Science Education and Research (IISER), Pune and Australian National University (ANU), click [here](assets/pdf/CV_Madhav_Sinha.pdf) for my CV.
+I am a postdoctoral scholar at New York University, working in the group of Prof. [Aditi Mitra](https://as.nyu.edu/faculty/aditi-mitra.html). I finished my PhD in physics at Rutgers University, New Brunswick, where my advisor was Prof. [Ananda Roy](https://sites.rutgers.edu/ananda-roy/). Before my PhD I was at Indian Institute of Science Education and Research (IISER), Pune and Australian National University (ANU).
 
-I work primarily on two dimensional conformal field theory and its interplay with maths and condensed matter physics. You can find my publications on [Inspire](https://inspirehep.net/authors/2718620).
+
+<!--click [here](assets/pdf/CV_Madhav_Sinha.pdf) for my CV.-->
+
+I work on generalized symmetries and topological defectss in the context of condensed matter systems in and out of equilibrium. My publications can be found on [Inspire](https://inspirehep.net/authors/2718620).
 
  
